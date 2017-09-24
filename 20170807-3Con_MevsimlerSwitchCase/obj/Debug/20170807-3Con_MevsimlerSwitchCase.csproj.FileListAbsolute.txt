@@ -1,0 +1,5 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-3Con_MevsimlerSwitchCase\20170807-3Con_MevsimlerSwitchCase\bin\Debug\20170807-3Con_MevsimlerSwitchCase.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-3Con_MevsimlerSwitchCase\20170807-3Con_MevsimlerSwitchCase\bin\Debug\20170807-3Con_MevsimlerSwitchCase.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-3Con_MevsimlerSwitchCase\20170807-3Con_MevsimlerSwitchCase\bin\Debug\20170807-3Con_MevsimlerSwitchCase.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-3Con_MevsimlerSwitchCase\20170807-3Con_MevsimlerSwitchCase\obj\Debug\20170807-3Con_MevsimlerSwitchCase.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-3Con_MevsimlerSwitchCase\20170807-3Con_MevsimlerSwitchCase\obj\Debug\20170807-3Con_MevsimlerSwitchCase.pdb
